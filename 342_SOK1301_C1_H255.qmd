@@ -1,6 +1,6 @@
 ---
 title: "SOK-1301 H25 - Case 1"
-author: "Mikko Moilanen"
+author: "Ioana-Alexandra Bica-Pop"
 format: html
 editor: visual
 ---
